@@ -1,0 +1,7 @@
+ptflops==0.7.1.2
+pycocotools==2.0.6
+scipy==1.11.1
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+tqdm==4.65.0

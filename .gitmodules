@@ -1,0 +1,3 @@
+[submodule "submodules/torchvision"]
+	path = submodules/torchvision
+	url = https://github.com/AussieSeaweed/torchvision.git
